@@ -8,7 +8,7 @@
 REveal is a function matching engine for divide-and-conquer binary diffing,
 developed as part of my PhD research.
 
-It is framework-agnostic via [RElib][https://github.com/huku-/relib], which
+It is framework-agnostic via [RElib](https://github.com/huku-/relib), which
 currently supports only IDA Pro.
 
 
@@ -30,7 +30,7 @@ accessible to your reverse engineering framework:
     This creates **/tmp/example2.export/**.
 
     If you plan to use compile-unit recovery as the divide-and-conquer strategy,
-    deploy [REcover][https://github.com/huku-/recover] and follow the related
+    deploy [REcover](https://github.com/huku-/recover) and follow the related
     instructions.
 
 3.  Run `reveal` to perform the diffing. Select the divide-and-conquer strategy
