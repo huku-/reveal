@@ -1,0 +1,6 @@
+networkx
+numpy
+pygraphviz
+REcover @ git+https://github.com/huku-/recover.git
+RElib @ git+https://github.com/huku-/relib.git
+scipy
